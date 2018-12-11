@@ -21,4 +21,4 @@ You can find the Otto library in https://github.com/OttoDIY/DIY/tree/master/libr
 	 ==> Ultrasound Sensor:
 	     -- Trigger 8
 	     -- Echo    9
-	 ==> Buzzer    11
+	 ==> Buzzer    13
