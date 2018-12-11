@@ -3,7 +3,7 @@ This is a easy software to use a Otto Robot with a touch sensor.
 
 You can find the Otto library in https://github.com/OttoDIY/DIY/tree/master/libraries
 
-	This switch three modes
+	This Otto alternates three modes
 	Mode 1: Otto avoid obstacles
 	Mode 2: Otto follow the hand
 	Mode 3: Otto dances!
