@@ -32,7 +32,7 @@ RR 5==>   -----   ------  <== RL 4
  ==> Ultrasound Sensor:
      -- Trigger 8
      -- Echo    9
- ==> Buzzer    11
+ ==> Buzzer    13
 */
   #define PIN_YL 2 //servo[2]
   #define PIN_YR 3 //servo[3]
@@ -56,7 +56,7 @@ bool obstacleDetected = false;
 ///////////////////////////////////////////////////////////////////
 void setup(){
  
-  Otto.init(PIN_YL,PIN_YR,PIN_RL,PIN_RR,true, -1, 11, 8, 9);
+  Otto.init(PIN_YL,PIN_YR,PIN_RL,PIN_RR,true, -1, 13, 8, 9);
   pinMode(sensorPin, INPUT);
   Otto.home();
   Otto.sing(S_happy); // a happy Otto :)
