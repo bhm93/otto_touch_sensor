@@ -8,15 +8,15 @@ You can find the Otto library in https://github.com/OttoDIY/DIY/tree/master/libr
 	Mode 2: Otto follow the hand
 	Mode 3: Otto dances!
 	
-               --^--       <== Touch Sensor 12
-          --------------- 
-         |     O   O     |
-         |---------------|
+               	      --^--       <== Touch Sensor 12
+          	 --------------- 
+        	|     O   O     |
+	        |---------------|
 	YR 3==> |               | <== YL 2
-         --------------- 
-            ||     ||
+         	 --------------- 
+            	    ||     ||
 	RR 5==>   -----   ------  <== RL 4
- 	        |-----   ------|
+ 	         |-----   ------|
 
 	 ==> Ultrasound Sensor:
 	     -- Trigger 8
